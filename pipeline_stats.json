@@ -1,0 +1,9 @@
+{
+  "llm_calls": 80,
+  "images_processed": 29,
+  "errors": 0,
+  "total_time_seconds": 104.87666320800781,
+  "claims_processed": 20,
+  "mode": "sample",
+  "model": "gemini-2.0-flash"
+}
